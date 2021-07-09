@@ -1,5 +1,5 @@
 {
-  "name": "project-name",
+  "name": "node-typescript-jest-template",
   "version": "1.0.0",
   "description": "does this count as boilerplate?",
   "main": "out/index.js",
